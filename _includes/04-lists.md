@@ -1,3 +1,3 @@
--Food
--Adventure
--learning
+- Food
+- Adventure
+- learning
